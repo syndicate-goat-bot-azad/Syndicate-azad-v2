@@ -5,13 +5,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # it's Render Bot run
-# uptime robot
-<img
-src="https://drive.google.com/file/d/1Vq8JTW5NiT6_i2IysEhIuth8PpyUciXT/view?usp=drivesdk"profile">
+# uptime robot 
+![Image](https://github.com/user-attachments/assets/0fd5a452-6cbc-45fa-829e-40189122e68d)
 
-<img
-src="https://drive.google.com/uc?export=view&id=1oXJ7ElC9nmETQ3489LzVpn2sB4pEI51-"
-alt="profile">
+
 
 # It's messenger Artificial intelligence Chat Bot 
 
