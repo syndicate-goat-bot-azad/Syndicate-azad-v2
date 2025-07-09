@@ -6,7 +6,8 @@
 
 # it's Render Bot run
 # uptime robot 
-<img width="1080" height="1350" alt="Image" src="https://github.com/user-attachments/assets/10f388a0-33f2-4121-9805-456a276d7e8b" />
+<img width="1080" height="1350" alt="Image" src="https://github.com/user-attachments/assets/10f388a0-33f2-4121-9805-456a276d7e8b" /> 
+<img width="1080" height="1350" alt="Image" src="https://github.com/user-attachments/assets/7f1481ad-a417-4ae9-ae85-ca56319268e7" />
 
 
 
