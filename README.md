@@ -1,4 +1,4 @@
-# 🦆 ᴀᴢᴀᴅ ᴄʜᴀᴛ ʙᴏᴛ 🦆
+# 🦆 ᴀᴢᴀᴅ ᴄʜᴀᴛ ʙᴏᴛ 🦆. 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -6,7 +6,7 @@
 
 # it's Render Bot run
 # uptime robot 
-![Image](https://github.com/user-attachments/assets/0fd5a452-6cbc-45fa-829e-40189122e68d)
+<img width="1080" height="1350" alt="Image" src="https://github.com/user-attachments/assets/10f388a0-33f2-4121-9805-456a276d7e8b" />
 
 
 
