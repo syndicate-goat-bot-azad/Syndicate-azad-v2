@@ -7,10 +7,12 @@
 # it's Render Bot run
 # uptime robot
 <img
-src="https://drive.google.com/file/d/1Vq8JTW5NiT6_i2IysEhIuth8PpyUciXT/view?usp=drivesdk
+src="https://drive.google.com/uc?export=view&id=10FPC1ljAAUo68vbjlmd6dxOu875pPxCT"
+alt="profile">
 
 <img
-src="https://drive.google.com/file/d/1VtPEzATo3xvQK8DchI0UEqj9fZSvSkcV/view?usp=drivesdk"profile">
+src="https://drive.google.com/uc?export=view&id=1oXJ7ElC9nmETQ3489LzVpn2sB4pEI51-"
+alt="profile">
 
 # It's messenger Artificial intelligence Chat Bot 
 
