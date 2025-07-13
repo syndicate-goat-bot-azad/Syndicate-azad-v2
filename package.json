@@ -4,8 +4,9 @@
 	"description": "A simple Bot chat messenger using personal account. Made by NTKhang.",
 	"main": "index.js",
 	"engines": {
-		"node": "16.x",
-		"npm": ">=7.0.0"
+		"engines": {
+  "node": ">=20.18.1"
+		}
 	},
 	"dependencies": {
 		"@distube/ytdl-core": "^4.13.3",
@@ -84,6 +85,4 @@
 		"prompt-checkbox": "^2.2.0",
 		"terser": "^5.15.0"
 	}
-}"engines": {
-  "node": ">=20.18.1"
 }
