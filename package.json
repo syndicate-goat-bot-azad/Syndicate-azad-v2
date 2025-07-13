@@ -84,4 +84,6 @@
 		"prompt-checkbox": "^2.2.0",
 		"terser": "^5.15.0"
 	}
+}"engines": {
+  "node": ">=20.18.1"
 }
